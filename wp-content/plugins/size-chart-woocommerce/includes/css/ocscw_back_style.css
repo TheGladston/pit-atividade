@@ -1,0 +1,281 @@
+.ocscw-container {
+    margin-top: 20px;
+    padding-right: 20px;
+}
+.ocscw-container ul.tabs{
+    margin: 20px 0px 0px 0px;
+    padding: 0px;
+    list-style: none;
+}
+.ocscw-container ul.tabs li{
+    background: none;
+    color: #222;
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.ocscw-container ul.tabs li.current{
+    background: #ececec;
+    color: #222;
+}
+.ocscw-container .tab-content{
+    display: none;
+    background: #ececec;
+    padding: 15px;
+}
+.ocscw-container .tab-content.current{
+    display: inherit;
+}
+body .ocscw-container h2 {
+    margin: 0px 0px 10px 0px !important;
+    padding: 10px 10px !important;
+    background-color: #607D8B;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px !important;
+}
+.ocscw_child_div table {
+    display: inline-block;
+    width: 100%;
+}
+.ocscw_child_div table th {
+    text-align: left;
+    width: 200px;
+    vertical-align: middle;
+}
+.ocscw_child_div table td .wp-picker-container {
+    vertical-align: text-top;
+    margin-top: 7px;
+}
+.ocscw_chart_tbl {
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    overflow-x: auto;
+}
+.ocscw_chart_tbl tr td{
+    width: 70px;
+    display: inline-block;
+    text-align: center;
+}
+.ocscw_chart_tbl input[type="text"] {
+    width: 70px;
+}
+.ocscw_child_div {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.ocscw_chart_tbl tr:nth-child(2) td {
+    font-weight: 700;
+}
+.ocscw_post_meta {
+    width: 100%;
+}
+.ocscw_swcrt_select {
+    display: block;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.ocscw_swcrt_select input {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.ocscw_child_div table tr {
+    height: 50px;
+}
+.ocscw_child_div table.ocscw_chart_tbl tr {
+    height: 30px;
+}
+.ocscw_import_main {
+    display: inline-block;
+    width: 100%;
+    background-color: #ececec;
+    border: 1px solid #ccc;
+    margin-top: 25px;
+}
+.ocscw_import_main h2 {
+    margin: 0px;
+    background: #607D8B;
+    color: #fff;
+    padding: 12px;
+}
+form.ocscw_import {
+    padding: 15px;
+}
+.ocscw_importbox {
+    width: 40%;
+}
+.ocscw_import_main h3 {
+    margin-top: 0;
+}
+form.ocscw_import input[type="submit"] {
+    display: block;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-top: 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
+form.ocscw_import input[type="submit"]:focus {
+    outline: none;
+}
+.ocscw_notice_success {
+    padding: 15px;
+}
+.ocscw_notice_success p {
+    font-size: 16px;
+    color: #008000;
+    margin: 0;
+}
+a.addcolumn img, a.addrow img {
+    width: 20px;
+    height: auto;
+    margin-right: 5px;
+    cursor: pointer;
+}
+a.deletecolumn img, a.deleterow img {
+    width: 20px;
+    height: auto;
+    cursor: pointer;
+}
+.ocscw_desc {
+    font-style: italic;
+    margin-left: 5px;
+}
+p.ocscw_shortcode {
+    display: inline-block;
+    width: 100%;
+    margin: 20px 0px;
+    font-family: monospace;
+    font-style: italic;
+}
+p.ocscw_shortcode strong {
+    font-size: 16px;
+    font-style: normal;
+}
+
+@media only screen and (max-width: 767px) {
+    .ocscw_rtusnoti_left {
+        width: 80%;
+    }
+}
+
+
+/*CSS for support rating donation start*/
+.ocscw_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.ocscw_ratesup_notice_main {
+    display: inline-block;
+    width: 100%;
+}
+.ocscw_rateus_notice, .ocscw_support_notice {
+    display: inline-block;
+    width: 45%;
+    float: left;
+    color: #fff;
+    background-color: #fb5f51;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 70px;
+}
+.ocscw_rateus_notice h3, .ocscw_support_notice h3 {
+    color: #fff;
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+.ocscw_rateus_notice label, .ocscw_support_notice label {
+    font-size: 16px;
+}
+.ocscw_support_notice {
+    background-color: #2f3337;
+    margin-left: 2%;
+}
+.ocscw_rateus_notice a, .ocscw_support_notice a {
+    color: #fff;
+}
+.ocscw_rtusnoti_left {
+    display: inline-block;
+    float: left;
+    width: 70%;
+}
+.ocscw_rtusnoti_right {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+.ocscw_rtusnoti_right img {
+    width: 50px;
+    height: auto;
+}
+.ocscw_donate_main {
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    width: 94.6%;
+    border: 1px solid #e3bbac;
+    align-items: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 15px;
+}
+.ocscw_donate_main img {
+    height: 32px;
+}
+.ocscw_donate_main > * {
+    margin: 0 15px 0 0;
+    vertical-align: middle;
+}
+.ocscw_donate_main h3 {
+    font-size: 15px;
+}
+.ocscw_donate_form {
+    display: flex;
+}
+.ocscw_donate_main .button {
+    text-align: center;
+}
+label.ocscw_pro_link {
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+/*CSS for support rating donation end*/
+td.color_disable {
+    display: flex;
+    align-items: center;
+}
+td.color_disable .wp-picker-container {
+    pointer-events: none;
+    cursor: none;
+    opacity: 0.5;
+}
+a.ocscw_support_link {
+    text-decoration: none;
+    color: #000000;
+    padding: 10px 15px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.loader_div {
+    display: flex;
+    align-items: center;
+}
+.loader_div input[type=radio] {
+    margin: 0;
+}
+img.loader_admin {
+    width: 25px;
+    margin: 0px 15px 0px 5px;
+}

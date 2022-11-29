@@ -1,0 +1,62 @@
+#owl-slider.owl-theme .owl-nav{
+    -webkit-transition: all 350ms ease;
+    -moz-transition: all 350ms ease;
+    transition: all 350ms ease;
+    top: calc(50% - 15px);
+    position: absolute;
+    width: 100%;
+    opacity: 0;
+    margin: 0;
+}
+#owl-slider.owl-theme:hover .owl-nav{
+    opacity: 1;
+}
+#owl-slider.owl-theme .owl-nav [class*='owl-']{
+    -webkit-transition: all 350ms ease;
+    -moz-transition: all 350ms ease;
+    transition: all 350ms ease;
+    position: absolute;
+    text-align: center;
+    line-height: 20px;
+    background: #fff;
+    display: block;
+    border: none;
+    height: 40px;
+    width: 40px;
+    color: #aaa;
+}
+#owl-slider.owl-theme .owl-dots{
+    transform: translate3d(-50%, 0, 0);
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+}
+#owl-slider.owl-theme:hover .owl-nav .owl-prev{
+    left: -45px;
+}
+#owl-slider.owl-theme .owl-nav .owl-prev{
+    left: 15px;
+}
+#owl-slider.owl-theme:hover .owl-nav .owl-next{
+    right: -45px;
+}
+#owl-slider.owl-theme .owl-nav .owl-next{
+    right: 15px;
+}
+
+#owl-slider.owl-theme .owl-nav [class*='owl-']{
+    background-color: #333;
+    color: #FFF;
+}
+#owl-slider.owl-theme:hover .owl-nav .owl-prev{
+    left: 0;
+}
+#owl-slider.owl-theme .owl-nav .owl-prev{
+    left: 35px;
+}
+#owl-slider.owl-theme:hover .owl-nav .owl-next{
+    right: 0;
+}
+#owl-slider.owl-theme .owl-nav .owl-next{
+    right: 35px;
+}

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-09-14 09:34-0300\n"
+"PO-Revision-Date: 2018-09-14 09:34-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-dropdown-cart.php:25
+msgid "Display the cart content"
+msgstr "Exibir o conteúdo do carrinho"
+
+#: woocommerce-dropdown-cart.php:29
+msgid "WooCommerce Dropdown Cart"
+msgstr ""
+
+#: woocommerce-dropdown-cart.php:57
+msgid "item"
+msgstr "item"
+
+#: woocommerce-dropdown-cart.php:58
+msgid "items"
+msgstr "itens"
+
+#: woocommerce-dropdown-cart.php:59
+msgid "My account"
+msgstr "Minha conta"
+
+#: woocommerce-dropdown-cart.php:120
+msgid "Title:"
+msgstr "Titulo:"
+
+#: woocommerce-dropdown-cart.php:126
+msgid "Hide if cart is empty"
+msgstr "Ocultar se o carrinho estiver vazio"
+
+#: woocommerce-dropdown-cart.php:129
+msgid "Show this widget on cart/checkout pages"
+msgstr "Mostrar este widget em páginas de carrinho / checkout"
+
+#: woocommerce-dropdown-cart.php:131
+msgid "Popup align:"
+msgstr "Alinhamento do pop-up:"
+
+#: woocommerce-dropdown-cart.php:133
+msgid "Left"
+msgstr "Esquerda"
+
+#: woocommerce-dropdown-cart.php:134
+msgid "Right"
+msgstr "Direita"

@@ -1,0 +1,28 @@
+[18-Oct-2021 03:18:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Oct-2021 22:21:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Nov-2021 15:51:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Jun-2022 09:30:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Jul-2022 15:28:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jul-2022 14:28:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jul-2022 12:24:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/devastrav1brtloj/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

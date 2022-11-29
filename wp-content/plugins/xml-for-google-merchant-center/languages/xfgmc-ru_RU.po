@@ -1,0 +1,2151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-03-24 21:48+0300\n"
+"PO-Revision-Date: 2022-03-24 21:48+0300\n"
+"Last-Translator: \n"
+"Language-Team: Maxim Glazunov <djdiplomat477@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c\n"
+"X-Poedit-SearchPath-0: classes/generation/class-xfgmc-generation-xml.php\n"
+"X-Poedit-SearchPath-1: classes/generation/class-xfgmc-get-closed-tag.php\n"
+"X-Poedit-SearchPath-2: classes/generation/class-xfgmc-get-open-tag.php\n"
+"X-Poedit-SearchPath-3: classes/generation/class-xfgmc-get-paired-tag.php\n"
+"X-Poedit-SearchPath-4: classes/generation/class-xfgmc-get-unit.php\n"
+"X-Poedit-SearchPath-5: classes/generation/class-xfgmc-get-unit-offer.php\n"
+"X-Poedit-SearchPath-6: classes/generation/class-xfgmc-get-unit-offer-simple."
+"php\n"
+"X-Poedit-SearchPath-7: classes/generation/class-xfgmc-get-unit-offer-"
+"variable.php\n"
+"X-Poedit-SearchPath-8: classes/generation/traits-xfgmc-global-variables.php\n"
+"X-Poedit-SearchPath-9: classes/generation/traits-xfgmc-simple.php\n"
+"X-Poedit-SearchPath-10: classes/generation/traits-xfgmc-variable.php\n"
+"X-Poedit-SearchPath-11: classes/system/class-xfgmc-data-arr.php\n"
+"X-Poedit-SearchPath-12: classes/system/class-xfgmc-error-log.php\n"
+"X-Poedit-SearchPath-13: classes/system/class-xfgmc-settings-feed-wp-list-"
+"table.php\n"
+"X-Poedit-SearchPath-14: classes/system/class-xfgmc-settings-page.php\n"
+"X-Poedit-SearchPath-15: classes/system/class-xfgmc-wp-list-table.php\n"
+"X-Poedit-SearchPath-16: includes/backward-compatibility.php\n"
+"X-Poedit-SearchPath-17: includes/icopydoc-useful-functions.php\n"
+"X-Poedit-SearchPath-18: includes/old-php-add-functions.php\n"
+"X-Poedit-SearchPath-19: includes/wc-add-functions.php\n"
+"X-Poedit-SearchPath-20: debug.php\n"
+"X-Poedit-SearchPath-21: extensions.php\n"
+"X-Poedit-SearchPath-22: functions.php\n"
+"X-Poedit-SearchPath-23: offer.php\n"
+"X-Poedit-SearchPath-24: packages.php\n"
+"X-Poedit-SearchPath-25: sandbox.php\n"
+"X-Poedit-SearchPath-26: uninstall.php\n"
+"X-Poedit-SearchPath-27: xml-for-google-merchant-center.php\n"
+"X-Poedit-SearchPath-28: classes/system/class-xfgmc-feedback.php\n"
+
+#: classes/generation/class-xfgmc-get-unit.php:67
+#: classes/generation/traits-xfgmc-simple.php:1151 offer.php:46
+msgid "There is no product with this ID"
+msgstr "Нет товара с таким ID"
+
+#: classes/generation/traits-xfgmc-simple.php:435
+#: classes/generation/traits-xfgmc-variable.php:504 offer.php:435
+#: offer.php:1160
+msgid "Price not specified"
+msgstr "Цена не указана"
+
+#: classes/generation/traits-xfgmc-simple.php:444
+#: classes/generation/traits-xfgmc-simple.php:448
+#: classes/generation/traits-xfgmc-variable.php:513
+#: classes/generation/traits-xfgmc-variable.php:517 offer.php:1170
+#: offer.php:1175
+msgid "The product price"
+msgstr "Цена товара"
+
+#: classes/generation/traits-xfgmc-simple.php:1155 offer.php:52
+msgid "Product is grouped"
+msgstr "Сгруппированный товар"
+
+#: classes/generation/traits-xfgmc-simple.php:1162 offer.php:61
+msgid "Product is simple"
+msgstr "Простой товар"
+
+#: classes/generation/traits-xfgmc-simple.php:1167 offer.php:68
+msgid "Product is variable"
+msgstr "Вариативный товар"
+
+#: classes/generation/traits-xfgmc-simple.php:1176
+#: classes/generation/traits-xfgmc-simple.php:1224 offer.php:79 offer.php:485
+msgid "Flag"
+msgstr "Флаг"
+
+#: classes/generation/traits-xfgmc-simple.php:1183
+#: classes/generation/traits-xfgmc-simple.php:1208
+#: classes/system/class-xfgmc-settings-page.php:762 offer.php:462
+#: offer.php:1187
+msgid "Skip missing products"
+msgstr "Исключать товары которых нет в наличии"
+
+#: classes/generation/traits-xfgmc-simple.php:1192
+#: classes/generation/traits-xfgmc-simple.php:1196
+#: classes/generation/traits-xfgmc-simple.php:1217
+#: classes/system/class-xfgmc-settings-page.php:768 offer.php:473
+#: offer.php:1198 offer.php:1205
+msgid "Skip backorders products"
+msgstr "Исключать из фида товары для предзаказа"
+
+#: classes/system/class-xfgmc-feedback.php:31 debug.php:185
+msgid "Send data about the work of the plugin"
+msgstr "Отправить данные о работе плагина"
+
+#: classes/system/class-xfgmc-feedback.php:33 debug.php:187
+msgid "Sending statistics you help make the plugin even better"
+msgstr "Пожалуйста, помогите сделать плагин лучше"
+
+#: classes/system/class-xfgmc-feedback.php:33 debug.php:187
+msgid "The following data will be transferred"
+msgstr "Следующие данные будут переданы"
+
+#: classes/system/class-xfgmc-feedback.php:35
+msgid "URL your feeds"
+msgstr "URL ваших фидов"
+
+#: classes/system/class-xfgmc-feedback.php:36
+msgid "Files generation status"
+msgstr "Статус генерации файлов"
+
+#: classes/system/class-xfgmc-feedback.php:37
+msgid "PHP version information "
+msgstr "Информация о версии PHP"
+
+#: classes/system/class-xfgmc-feedback.php:38
+msgid "Multisite mode status"
+msgstr "Включен ли режим multisite"
+
+#: classes/system/class-xfgmc-feedback.php:39
+msgid "Technical information and plugin logs"
+msgstr "Техническая информация и логи плагина"
+
+#: classes/system/class-xfgmc-feedback.php:41
+msgid "Did my plugin help you upload your products to the"
+msgstr "Помог ли Вам плагин загрузить продукцию на"
+
+#: classes/system/class-xfgmc-feedback.php:44
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:130
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:336
+#: classes/system/class-xfgmc-settings-page.php:243
+#: classes/system/class-xfgmc-settings-page.php:245 debug.php:196
+#: xml-for-google-merchant-center.php:704
+#: xml-for-google-merchant-center.php:715
+#: xml-for-google-merchant-center.php:740
+msgid "Yes"
+msgstr "Да"
+
+#: classes/system/class-xfgmc-feedback.php:45
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:129
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:340
+#: classes/system/class-xfgmc-settings-page.php:242
+#: classes/system/class-xfgmc-settings-page.php:245 debug.php:197
+#: xml-for-google-merchant-center.php:703
+#: xml-for-google-merchant-center.php:714
+#: xml-for-google-merchant-center.php:739
+msgid "No"
+msgstr "Нет"
+
+#: classes/system/class-xfgmc-feedback.php:47 debug.php:199
+msgid ""
+"If you don't mind to be contacted in case of problems, please enter your "
+"email address"
+msgstr ""
+"Если вы не возражаете, чтобы с Вами связались в случае возникновения "
+"дополнительных вопросов по поводу работы плагина, то укажите Ваш адрес "
+"электронной почты"
+
+#: classes/system/class-xfgmc-feedback.php:49 debug.php:201
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+#: classes/system/class-xfgmc-feedback.php:50 debug.php:202
+msgid ""
+"Enter your text to send me a message (You can write me in Russian or "
+"English). I check my email several times a day"
+msgstr ""
+"Введите текст, чтобы отправить мне сообщение (Вы можете написать мне на "
+"русском или английском языке). Я проверяю свою электронную почту несколько "
+"раз в день"
+
+#: classes/system/class-xfgmc-feedback.php:52 debug.php:203
+msgid "Send data"
+msgstr "Отправить данные"
+
+#: classes/system/class-xfgmc-feedback.php:60
+msgid "Please support the project"
+msgstr "Пожалуйста, поддержите проект"
+
+#: classes/system/class-xfgmc-feedback.php:62
+msgid "Thank you for using the plugin"
+msgstr "Спасибо за использование плагина"
+
+#: classes/system/class-xfgmc-feedback.php:63
+msgid "Please help make the plugin better"
+msgstr "Пожалуйста, помогите сделать плагин лучше"
+
+#: classes/system/class-xfgmc-feedback.php:63
+msgid "answering 6 questions"
+msgstr "ответив на 6 вопросов"
+
+#: classes/system/class-xfgmc-feedback.php:64
+msgid "If this plugin useful to you, please support the project one way"
+msgstr "Если этот плагин полезен вам, пожалуйста, поддержите проект"
+
+#: classes/system/class-xfgmc-feedback.php:66
+msgid "Leave a comment on the plugin page"
+msgstr "Оставьте комментарий на странице плагина"
+
+#: classes/system/class-xfgmc-feedback.php:67
+msgid "Support the project financially"
+msgstr "Поддержите проект деньгами"
+
+#: classes/system/class-xfgmc-feedback.php:67
+msgid "Donate now"
+msgstr "Поддержать проект"
+
+#: classes/system/class-xfgmc-feedback.php:68
+msgid "Noticed a bug or have an idea how to improve the quality of the plugin"
+msgstr "Заметили ошибку или есть идея как улучшить качество плагина"
+
+#: classes/system/class-xfgmc-feedback.php:68
+msgid "Let me know"
+msgstr "Напишите мне"
+
+#: classes/system/class-xfgmc-feedback.php:70
+msgid "The author of the plugin Maxim Glazunov"
+msgstr "С уважением, Максим Глазунов"
+
+#: classes/system/class-xfgmc-feedback.php:71
+msgid "Accept orders for individual revision of the plugin"
+msgstr "Принимаю заказы на индивидуальные доработки плагина"
+
+#: classes/system/class-xfgmc-feedback.php:71
+msgid "Leave a request"
+msgstr "Оставить заявку"
+
+#: classes/system/class-xfgmc-feedback.php:109
+msgid "The data has been sent. Thank you"
+msgstr "Данные были отправлены. Спасибо"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:36
+msgid "Google attribute"
+msgstr "Google атрибут"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:37
+msgid "Attribute description"
+msgstr "Описание атрибута"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:38
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:294
+msgid "Value"
+msgstr "Значение"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:39
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:291
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:352
+msgid "Default value"
+msgstr "Значение по умолчанию"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:54
+msgid "Product ID"
+msgstr "ID товара"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:55
+msgid ""
+"For default the value is automatically added to your feed from WooCommerce "
+"Product ID or Variable ID"
+msgstr ""
+"По умолчанию значение автоматически добавляется в ваш фид из ID простого или "
+"ID вариативного товара WooCommerce"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:57
+#: classes/system/class-xfgmc-settings-page.php:752
+#: xml-for-google-merchant-center.php:338
+#: xml-for-google-merchant-center.php:353
+#: xml-for-google-merchant-center.php:359
+#: xml-for-google-merchant-center.php:724
+#: xml-for-google-merchant-center.php:737
+msgid "Default"
+msgstr "По умолчанию"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:58
+msgid "Sku"
+msgstr "Артикул"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:63
+msgid "Group ID for Variable products"
+msgstr "Идентификатор группы для вариативных товаров"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:64
+msgid "Product ID for Variable products"
+msgstr "ID для вариативных товаров"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:65
+msgid ""
+"The value is automatically added to your feed for variable products from "
+"WooCommerce Product ID"
+msgstr ""
+"Значение автоматически добавляется в ваш фид для вариативных товаров из "
+"WooCommerce Product ID"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:66
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:73
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:80
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:87
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:94
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:104
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:122
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:132
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:142
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:205
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:212
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:219
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:238
+msgid "There are no default settings"
+msgstr "Нет настроек по умолчанию"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:70
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:71
+msgid "Product name"
+msgstr "Название товара"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:72
+msgid ""
+"The value is automatically added to your feed from the WooCommerce product "
+"name"
+msgstr ""
+"Значение автоматически добавляется в ваш фид из названия товара WooCommerce"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:77
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:78
+msgid "Product description"
+msgstr "Описание товара"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:84
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:85
+msgid "Product link"
+msgstr "Ссылка на товар"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:86
+msgid ""
+"The value is automatically added to your feed for variable products from "
+"WooCommerce"
+msgstr ""
+"Значение автоматически добавляется в ваш фид для вариативных товаров "
+"WooCommerce"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:91
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:92
+msgid "Image link"
+msgstr "Ссылка на изображение"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:93
+msgid ""
+"The value is automatically added to your feed from the \"Product Image\" "
+"block from the product card in WooCommerce"
+msgstr ""
+"Значение автоматически добавляется в ваш фид из блока \"Изображение товара\" "
+"из карточки товара в WooCommerce"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:98
+msgid "Quantity"
+msgstr "Количество"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:99
+msgid "Add info about stock quantity"
+msgstr "Добавить информацию о количестве на складе"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:101
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:139
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:227
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:246
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:333
+#: classes/system/class-xfgmc-settings-page.php:527
+#: classes/system/class-xfgmc-settings-page.php:706
+#: classes/system/class-xfgmc-settings-page.php:749
+msgid "Disabled"
+msgstr "Отключено"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:102
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:140
+#: classes/system/class-xfgmc-settings-page.php:528
+#: classes/system/class-xfgmc-settings-page.php:707
+#: classes/system/class-xfgmc-settings-page.php:750
+#: classes/system/class-xfgmc-settings-page.php:752
+msgid "Enabled"
+msgstr "Включено"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:108
+#: xml-for-google-merchant-center.php:722
+msgid "Сondition"
+msgstr "Состояние товара"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:112
+#: xml-for-google-merchant-center.php:726
+msgid "New"
+msgstr "Новый"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:113
+#: xml-for-google-merchant-center.php:727
+msgid "Refurbished"
+msgstr "Восстановленный"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:114
+#: xml-for-google-merchant-center.php:728
+msgid "Used"
+msgstr "б/у"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:119
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:120
+msgid "Availability"
+msgstr "Наличие"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:121
+msgid ""
+"The value is automatically added to your feed from the \"Inventory\" block - "
+"\"Stock status\" from the product card in WooCommerce"
+msgstr ""
+"Значение автоматически добавляется в ваш фид из блока \"Запасы\" - "
+"\"Складской статус\" из карточки товара в WooCommerce"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:126
+msgid "Sale price"
+msgstr "Цена распродажи"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:127
+msgid ""
+"In sale_price indicates the new price of the products, which must "
+"necessarily be lower than the old price"
+msgstr ""
+"В sale_price указывается новая цена товара, которая обязательно должна быть "
+"ниже старой"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:136
+msgid "Tax info"
+msgstr "Информация о налогах"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:137
+msgid "The value is indicated on the product edit page or category edit page"
+msgstr ""
+"Значение указывается на странице редактирования товара или странице "
+"редактирования категории"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:146
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:153
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:160
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:167
+#: xml-for-google-merchant-center.php:775
+#: xml-for-google-merchant-center.php:782
+#: xml-for-google-merchant-center.php:789
+#: xml-for-google-merchant-center.php:796
+#: xml-for-google-merchant-center.php:803
+#: xml-for-google-merchant-center.php:810
+#: xml-for-google-merchant-center.php:817
+#: xml-for-google-merchant-center.php:824
+#: xml-for-google-merchant-center.php:831
+#: xml-for-google-merchant-center.php:838
+msgid "Definition"
+msgstr "Определение"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:147
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:161
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:168
+#: classes/system/class-xfgmc-settings-page.php:643
+#: classes/system/class-xfgmc-settings-page.php:657
+#: classes/system/class-xfgmc-settings-page.php:664
+msgid "Leave this field blank if you do not want to add a default value"
+msgstr ""
+"Оставьте это поле пустым, если вы не хотите добавить значение по умолчанию"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:174
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:175
+msgid "GTIN"
+msgstr "Штрихкод"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:181
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:182
+msgid "MPN"
+msgstr "MPN"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:188
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:189
+msgid "Age"
+msgstr "Возраст"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:195
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:196
+msgid "Brand"
+msgstr "Брэнд"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:202
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:203
+msgid "Color"
+msgstr "Цвет"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:209
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:210
+msgid "Material"
+msgstr "Материал"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:216
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:217
+msgid "Pattern"
+msgstr "Узор"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:223
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:224
+msgid "Gender"
+msgstr "Пол"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:235
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:236
+#: xml-for-google-merchant-center.php:335
+msgid "Size"
+msgstr "Размер"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:242
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:243
+#: xml-for-google-merchant-center.php:350
+msgid "Size type"
+msgstr "Тип размера"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:256
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:257
+msgid "Size system"
+msgstr "Система размеров"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:260
+msgid "None"
+msgstr "Нет"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:288
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:294
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:297
+msgid "Name post_meta"
+msgstr "Имя метаполя"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:318
+msgid "Only Excerpt description"
+msgstr "Только Краткое описание"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:319
+msgid "Only Full description"
+msgstr "Только Полное описание"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:320
+msgid "Excerpt or Full description"
+msgstr "Краткое или Полное описание"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:321
+msgid "Full or Excerpt description"
+msgstr "Полное или Краткое описание"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:322
+msgid "Excerpt plus Full description"
+msgstr "Краткое плюс Полное описание"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:323
+msgid "Full plus Excerpt description"
+msgstr "Полное плюс Краткое описание"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:344
+msgid "Substitute from SKU"
+msgstr "Подставлять из Артикул"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:348
+msgid "Substitute from post meta"
+msgstr "Подставлять из метаполя"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:352
+msgid "Default value from field"
+msgstr "Значение из поля"
+
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:357
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:363
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:366
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:369
+#: classes/system/class-xfgmc-settings-feed-wp-list-table.php:372
+msgid "Substitute from"
+msgstr "Подставлять из"
+
+#: classes/system/class-xfgmc-settings-page.php:24
+msgid "Exporter Google Merchant Center"
+msgstr "Экспортер Google Merchant Center"
+
+#: classes/system/class-xfgmc-settings-page.php:82
+#: classes/system/class-xfgmc-settings-page.php:84 debug.php:71
+msgid "Save"
+msgstr "Сохранить"
+
+#: classes/system/class-xfgmc-settings-page.php:82
+msgid "Create feed"
+msgstr "Создать фид"
+
+#: classes/system/class-xfgmc-settings-page.php:87 debug.php:72
+msgid "Click to save the settings"
+msgstr "Нажмите, чтобы сохранить настройки"
+
+#: classes/system/class-xfgmc-settings-page.php:105
+msgid "a necessary extension for those who want to"
+msgstr "необходимое расширение для тех, кто хочет"
+
+#: classes/system/class-xfgmc-settings-page.php:105
+msgid "save on advertising budget"
+msgstr "экономить рекламный бюджет"
+
+#: classes/system/class-xfgmc-settings-page.php:105
+msgid "on Google"
+msgstr "в Google"
+
+#: classes/system/class-xfgmc-settings-page.php:105
+#: classes/system/class-xfgmc-settings-page.php:530
+msgid "Learn More"
+msgstr "Подробнее"
+
+#: classes/system/class-xfgmc-settings-page.php:112
+msgid "Add New Feed"
+msgstr "Добавить фид"
+
+#: classes/system/class-xfgmc-settings-page.php:131
+#: classes/system/class-xfgmc-settings-page.php:204
+#: classes/system/class-xfgmc-settings-page.php:547
+#: classes/system/class-xfgmc-settings-page.php:681
+#: classes/system/class-xfgmc-settings-page.php:730 debug.php:136
+msgid "Feed"
+msgstr "Фид"
+
+#: classes/system/class-xfgmc-settings-page.php:131
+msgid "not created yet"
+msgstr "еще не создавался"
+
+#: classes/system/class-xfgmc-settings-page.php:131
+msgid "updating"
+msgstr "обновляется"
+
+#: classes/system/class-xfgmc-settings-page.php:131
+msgid "created"
+msgstr "создан"
+
+#: classes/system/class-xfgmc-settings-page.php:133
+msgid "Instruction"
+msgstr "Инструкция"
+
+#: classes/system/class-xfgmc-settings-page.php:133
+msgid "How to create a XML-feed"
+msgstr "Как создать XML-фид"
+
+#: classes/system/class-xfgmc-settings-page.php:136
+#: classes/system/class-xfgmc-settings-page.php:143
+#: xml-for-google-merchant-center.php:936
+msgid "We are working on automatic file creation. XML will be developed soon"
+msgstr ""
+"Идет автоматическое создание файла. XML-фид в скором времени будет создан"
+
+#: classes/system/class-xfgmc-settings-page.php:138
+msgid ""
+"In order to do that, select another menu entry (which differs from \"off\") "
+"in the box called \"Automatic file creation\". You can also change values in "
+"other boxes if necessary, then press \"Save\""
+msgstr ""
+"Для этого в поле \"Автоматическое создание файла\" выставите значение, "
+"отличное от значения \"отключено\", при необходимости измените значение "
+"других полей и нажмите \"Сохранить\""
+
+#: classes/system/class-xfgmc-settings-page.php:139
+msgid ""
+"After 1-7 minutes (depending on the number of products), the feed will be "
+"generated and a link will appear instead of this message"
+msgstr ""
+"Через 1 - 7 минут (зависит от числа товаров), фид будет сгенерирован и "
+"вместо данного сообщения появится ссылка"
+
+#: classes/system/class-xfgmc-settings-page.php:145
+msgid "Your XML feed here"
+msgstr "Ваш XML фид здесь"
+
+#: classes/system/class-xfgmc-settings-page.php:146
+msgid "File size"
+msgstr "Размер файла"
+
+#: classes/system/class-xfgmc-settings-page.php:155
+msgid "Start of generation "
+msgstr "Начало генерации"
+
+#: classes/system/class-xfgmc-settings-page.php:156
+msgid "Generated"
+msgstr "Сгенерирован"
+
+#: classes/system/class-xfgmc-settings-page.php:157
+msgid "Products"
+msgstr "Товаров"
+
+#: classes/system/class-xfgmc-settings-page.php:160
+msgid ""
+"Please note that Google Merchant Center checks XML no more than 3 times a "
+"day! This means that the changes on the Google Merchant Center are not "
+"instantaneous"
+msgstr ""
+"Обратите внимание, что Google Merchant Center проверяет XML не чаще 3-х раз "
+"в день! Это означает, что изменения на Google Merchant Center не мгновенны"
+
+#: classes/system/class-xfgmc-settings-page.php:167
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: classes/system/class-xfgmc-settings-page.php:168
+#: classes/system/class-xfgmc-settings-page.php:547
+msgid "Shop data"
+msgstr "Данные магазина"
+
+#: classes/system/class-xfgmc-settings-page.php:169
+msgid "Attribute settings"
+msgstr "Настройки атрибутов"
+
+#: classes/system/class-xfgmc-settings-page.php:170
+#: classes/system/class-xfgmc-settings-page.php:730
+msgid "Filtration"
+msgstr "Фильтрация"
+
+#: classes/system/class-xfgmc-settings-page.php:204
+msgid "Main parameters"
+msgstr "Основные параметры"
+
+#: classes/system/class-xfgmc-settings-page.php:209
+#: classes/system/class-xfgmc-wp-list-table.php:34
+msgid "Automatic file creation"
+msgstr "Автоматическое создание файла"
+
+#: classes/system/class-xfgmc-settings-page.php:212
+#: classes/system/class-xfgmc-wp-list-table.php:65
+#: xml-for-google-merchant-center.php:702
+#: xml-for-google-merchant-center.php:713
+#: xml-for-google-merchant-center.php:725
+#: xml-for-google-merchant-center.php:738
+msgid "Off"
+msgstr "Отключено"
+
+#: classes/system/class-xfgmc-settings-page.php:214
+#: classes/system/class-xfgmc-wp-list-table.php:66
+msgid "Every five minutes"
+msgstr "Каждые пять минут"
+
+#: classes/system/class-xfgmc-settings-page.php:216
+#: classes/system/class-xfgmc-wp-list-table.php:67
+msgid "Hourly"
+msgstr "Раз в час"
+
+#: classes/system/class-xfgmc-settings-page.php:217
+#: classes/system/class-xfgmc-wp-list-table.php:68
+msgid "Every six hours"
+msgstr "Каждые 6 часов"
+
+#: classes/system/class-xfgmc-settings-page.php:218
+#: classes/system/class-xfgmc-wp-list-table.php:69
+msgid "Twice a day"
+msgstr "2 раза в день"
+
+#: classes/system/class-xfgmc-settings-page.php:219
+#: classes/system/class-xfgmc-wp-list-table.php:70
+msgid "Daily"
+msgstr "Раз в день"
+
+#: classes/system/class-xfgmc-settings-page.php:221
+msgid "The refresh interval on your feed"
+msgstr "Интервал обновления вашего фида"
+
+#: classes/system/class-xfgmc-settings-page.php:225
+msgid "Update feed when updating products"
+msgstr "Обновить фид при обновлении карточки товара"
+
+#: classes/system/class-xfgmc-settings-page.php:232
+#: classes/system/class-xfgmc-wp-list-table.php:60
+msgid "Feed assignment"
+msgstr "Назначение фида"
+
+#: classes/system/class-xfgmc-settings-page.php:234
+msgid "For Google"
+msgstr "Для Гугл"
+
+#: classes/system/class-xfgmc-settings-page.php:235
+msgid "Not used in feed. Inner note for your convenience"
+msgstr "Не используется в фиде. Внутренняя заметка для вашего удобства"
+
+#: classes/system/class-xfgmc-settings-page.php:239
+msgid "Adapt for Facebook"
+msgstr "Адаптировать для Facebook"
+
+#: classes/system/class-xfgmc-settings-page.php:245
+msgid "If you want to create a Facebook feed, set the value to "
+msgstr "Если вы хотите создать фид для Facebook, установите значение "
+
+#: classes/system/class-xfgmc-settings-page.php:245
+msgid "If the feed is for Google Merchant Center, select"
+msgstr "Если фид для Google Merchant Center, установите"
+
+#: classes/system/class-xfgmc-settings-page.php:249
+msgid "Target country"
+msgstr "Страна для таргетинга"
+
+#: classes/system/class-xfgmc-settings-page.php:252
+msgid "Belarus"
+msgstr "Беларусь"
+
+#: classes/system/class-xfgmc-settings-page.php:253
+msgid "Russia"
+msgstr "Россия"
+
+#: classes/system/class-xfgmc-settings-page.php:254
+msgid "Ukraine"
+msgstr "Украина"
+
+#: classes/system/class-xfgmc-settings-page.php:503
+msgid "Select your target country"
+msgstr "Выберите страну для таргентинга"
+
+#: classes/system/class-xfgmc-settings-page.php:507
+#: classes/system/class-xfgmc-wp-list-table.php:35
+msgid "Step of export"
+msgstr "Шаг экспорта"
+
+#: classes/system/class-xfgmc-settings-page.php:520
+msgid "The value affects the speed of file creation"
+msgstr "Значение влияет на скорость создания XML фида"
+
+#: classes/system/class-xfgmc-settings-page.php:520
+msgid ""
+"If you have any problems with the generation of the file - try to reduce the "
+"value in this field"
+msgstr ""
+"Если у вас возникли проблемы с генерацией файла - попробуйте уменьшить "
+"значение в данном поле"
+
+#: classes/system/class-xfgmc-settings-page.php:520
+msgid "More than 500 can only be installed on powerful servers"
+msgstr "Более 500 можно устанавливать только на мощных серверах"
+
+#: classes/system/class-xfgmc-settings-page.php:524
+msgid "Ignore plugin cache"
+msgstr "Игнорировать кэш плагина"
+
+#: classes/system/class-xfgmc-settings-page.php:530
+msgid ""
+"Changing this option can be useful if your feed prices don't change after "
+"syncing"
+msgstr ""
+"Изменение этой опции может быть полезно, если цены в фиде не меняются после "
+"синхронизации"
+
+#: classes/system/class-xfgmc-settings-page.php:551
+msgid "What kind of products do you sell"
+msgstr "Какие товары вы продаете"
+
+#: classes/system/class-xfgmc-settings-page.php:554
+msgid "Electronics"
+msgstr "Электроника"
+
+#: classes/system/class-xfgmc-settings-page.php:555
+msgid "Computer techologies"
+msgstr "Компьютеры"
+
+#: classes/system/class-xfgmc-settings-page.php:556
+msgid "Clothes and shoes"
+msgstr "Одежда и обувь"
+
+#: classes/system/class-xfgmc-settings-page.php:557
+msgid "Auto parts"
+msgstr "Автозапчасти"
+
+#: classes/system/class-xfgmc-settings-page.php:558
+msgid "Products for children"
+msgstr "Детские товары"
+
+#: classes/system/class-xfgmc-settings-page.php:559
+msgid "Sporting goods"
+msgstr "Спортивные товары"
+
+#: classes/system/class-xfgmc-settings-page.php:560
+msgid "Goods for pets"
+msgstr "Товары для домашних животных"
+
+#: classes/system/class-xfgmc-settings-page.php:561
+msgid "Sex shop (Adult products)"
+msgstr "Секс-шоп (товары для взрослых)"
+
+#: classes/system/class-xfgmc-settings-page.php:562
+msgid "Books"
+msgstr "Книги"
+
+#: classes/system/class-xfgmc-settings-page.php:563
+msgid "Health products"
+msgstr "Товары для здоровья"
+
+#: classes/system/class-xfgmc-settings-page.php:564
+msgid "Food"
+msgstr "Еда"
+
+#: classes/system/class-xfgmc-settings-page.php:565
+msgid "Construction Materials"
+msgstr "Строительные материалы"
+
+#: classes/system/class-xfgmc-settings-page.php:566
+msgid "Other"
+msgstr "Прочее"
+
+#: classes/system/class-xfgmc-settings-page.php:568
+msgid "Specify the main category"
+msgstr "Укажите основную категорию"
+
+#: classes/system/class-xfgmc-settings-page.php:572
+msgid "Shop name"
+msgstr "Название магазина"
+
+#: classes/system/class-xfgmc-settings-page.php:575
+#: classes/system/class-xfgmc-settings-page.php:688
+msgid "Required element"
+msgstr "Обязательный элемент"
+
+#: classes/system/class-xfgmc-settings-page.php:575
+msgid "The short name of the store should not exceed 20 characters"
+msgstr "Короткое название магазина, должно содержать не более 20 символов"
+
+#: classes/system/class-xfgmc-settings-page.php:579
+msgid "Store code"
+msgstr "Код магазина"
+
+#: classes/system/class-xfgmc-settings-page.php:579
+msgid "In most cases, you can leave this field blank"
+msgstr "В большинстве случаев это поле можно оставить пустым"
+
+#: classes/system/class-xfgmc-settings-page.php:582
+#: classes/system/class-xfgmc-settings-page.php:657
+#: classes/system/class-xfgmc-settings-page.php:664
+msgid "Optional attribute"
+msgstr "Необязательный атрибут"
+
+#: classes/system/class-xfgmc-settings-page.php:582
+#: classes/system/class-xfgmc-settings-page.php:590
+#: classes/system/class-xfgmc-settings-page.php:626
+#: classes/system/class-xfgmc-settings-page.php:627
+#: classes/system/class-xfgmc-settings-page.php:650
+#: classes/system/class-xfgmc-settings-page.php:829
+#: classes/system/class-xfgmc-settings-page.php:830
+#: classes/system/class-xfgmc-settings-page.php:831
+#: classes/system/class-xfgmc-settings-page.php:832
+#: classes/system/class-xfgmc-settings-page.php:833
+#: classes/system/class-xfgmc-settings-page.php:834
+#: classes/system/class-xfgmc-settings-page.php:835
+#: classes/system/class-xfgmc-settings-page.php:836
+#: xml-for-google-merchant-center.php:323
+#: xml-for-google-merchant-center.php:330
+#: xml-for-google-merchant-center.php:342
+#: xml-for-google-merchant-center.php:373
+#: xml-for-google-merchant-center.php:677
+#: xml-for-google-merchant-center.php:686
+#: xml-for-google-merchant-center.php:695
+#: xml-for-google-merchant-center.php:706
+#: xml-for-google-merchant-center.php:717
+#: xml-for-google-merchant-center.php:742
+#: xml-for-google-merchant-center.php:754
+#: xml-for-google-merchant-center.php:760
+#: xml-for-google-merchant-center.php:768
+#: xml-for-google-merchant-center.php:777
+#: xml-for-google-merchant-center.php:784
+#: xml-for-google-merchant-center.php:791
+#: xml-for-google-merchant-center.php:798
+#: xml-for-google-merchant-center.php:805
+#: xml-for-google-merchant-center.php:812
+#: xml-for-google-merchant-center.php:819
+#: xml-for-google-merchant-center.php:826
+#: xml-for-google-merchant-center.php:833
+#: xml-for-google-merchant-center.php:840
+#: xml-for-google-merchant-center.php:854
+#: xml-for-google-merchant-center.php:863
+msgid "Read more"
+msgstr "Подробнее"
+
+#: classes/system/class-xfgmc-settings-page.php:587
+msgid "Store currency"
+msgstr "Валюта магазина"
+
+#: classes/system/class-xfgmc-settings-page.php:587
+msgid "Uppercase letter"
+msgstr "Заглавными буквами"
+
+#: classes/system/class-xfgmc-settings-page.php:590
+msgid "For example"
+msgstr "Например"
+
+#: classes/system/class-xfgmc-settings-page.php:597
+msgid "Feed currency"
+msgstr "Валюта фида"
+
+#: classes/system/class-xfgmc-settings-page.php:604
+msgid "You have plugin installed"
+msgstr "У вас установлен плагин"
+
+#: classes/system/class-xfgmc-settings-page.php:605
+msgid "Indicate in what currency the prices should be"
+msgstr "Укажите, в какой валюте должны быть цены"
+
+#: classes/system/class-xfgmc-settings-page.php:605
+msgid "Please note"
+msgstr "Обратите внимание"
+
+#: classes/system/class-xfgmc-settings-page.php:605
+msgid "The currency must match the one you specified in the field above"
+msgstr "Валюта должна соответствовать указанной вами в поле выше"
+
+#: classes/system/class-xfgmc-settings-page.php:624
+msgid "Shipping"
+msgstr "Доставка"
+
+#: classes/system/class-xfgmc-settings-page.php:626
+msgid ""
+"Google recommend that you set up shipping costs through Merchant Center "
+"settings instead of submitting the shipping attribute in the feed"
+msgstr ""
+"Гугл рекомендует вместо того чтобы добавлять атрибут shipping [доставка] в "
+"фид, устанавливать настройки доставки на уровне аккаунта Merchant Center"
+
+#: classes/system/class-xfgmc-settings-page.php:627
+msgid "To add this element to your feed make sure the fields are filled"
+msgstr "Чтобы добавить этот элемент в свой фид, убедитесь, что заполнены"
+
+#: classes/system/class-xfgmc-settings-page.php:627
+msgid "and"
+msgstr "и"
+
+#: classes/system/class-xfgmc-settings-page.php:627
+#: classes/system/class-xfgmc-settings-page.php:647
+msgid "Delivery area"
+msgstr "Зона доставки"
+
+#: classes/system/class-xfgmc-settings-page.php:630
+msgid "Unit of measurement of"
+msgstr "Единица измерения"
+
+#: classes/system/class-xfgmc-settings-page.php:640
+#: classes/system/class-xfgmc-settings-page.php:654
+#: classes/system/class-xfgmc-settings-page.php:661
+msgid "Attribute"
+msgstr "Атрибут"
+
+#: classes/system/class-xfgmc-settings-page.php:643
+msgid "Required attribute"
+msgstr "Обязательный атрибут"
+
+#: classes/system/class-xfgmc-settings-page.php:650
+msgid ""
+"To specify a delivery area (which is optional), submit 1 of the 4 available "
+"options for the shipping attribute"
+msgstr ""
+"Чтобы указать стоимость доставки в конкретное место, добавьте один из "
+"следующих атрибутов"
+
+#: classes/system/class-xfgmc-settings-page.php:681
+msgid "Tags settings"
+msgstr "Настройки тегов"
+
+#: classes/system/class-xfgmc-settings-page.php:685
+#: classes/system/class-xfgmc-settings-page.php:688
+msgid "The name of your data feed"
+msgstr "Название фида данных"
+
+#: classes/system/class-xfgmc-settings-page.php:692
+#: classes/system/class-xfgmc-settings-page.php:699
+msgid "For pre-order products, establish availability equal to"
+msgstr "Для товаров на предзаказ установить доступность, равную"
+
+#: classes/system/class-xfgmc-settings-page.php:703
+msgid "Product type"
+msgstr "Тип товара"
+
+#: classes/system/class-xfgmc-settings-page.php:709
+msgid "Add root element"
+msgstr "Добавить корневой элемент"
+
+#: classes/system/class-xfgmc-settings-page.php:710
+msgid "Home"
+msgstr "Главная"
+
+#: classes/system/class-xfgmc-settings-page.php:711
+#: xml-for-google-merchant-center.php:323
+#: xml-for-google-merchant-center.php:330
+#: xml-for-google-merchant-center.php:342
+#: xml-for-google-merchant-center.php:366
+#: xml-for-google-merchant-center.php:373
+#: xml-for-google-merchant-center.php:677
+#: xml-for-google-merchant-center.php:686
+#: xml-for-google-merchant-center.php:695
+#: xml-for-google-merchant-center.php:706
+#: xml-for-google-merchant-center.php:717
+#: xml-for-google-merchant-center.php:730
+#: xml-for-google-merchant-center.php:742
+#: xml-for-google-merchant-center.php:754
+#: xml-for-google-merchant-center.php:760
+#: xml-for-google-merchant-center.php:768
+#: xml-for-google-merchant-center.php:777
+#: xml-for-google-merchant-center.php:784
+#: xml-for-google-merchant-center.php:791
+#: xml-for-google-merchant-center.php:798
+#: xml-for-google-merchant-center.php:805
+#: xml-for-google-merchant-center.php:812
+#: xml-for-google-merchant-center.php:819
+#: xml-for-google-merchant-center.php:826
+#: xml-for-google-merchant-center.php:833
+#: xml-for-google-merchant-center.php:840
+#: xml-for-google-merchant-center.php:854
+#: xml-for-google-merchant-center.php:863
+msgid "Optional element"
+msgstr "Необязательный элемент"
+
+#: classes/system/class-xfgmc-settings-page.php:734
+#: classes/system/class-xfgmc-settings-page.php:742
+msgid "Whot export"
+msgstr "Что экспортировать"
+
+#: classes/system/class-xfgmc-settings-page.php:737
+msgid "Simple & Variable products"
+msgstr "Вариативные и обычные товары"
+
+#: classes/system/class-xfgmc-settings-page.php:738
+msgid "Only simple products"
+msgstr "Только обычные товары"
+
+#: classes/system/class-xfgmc-settings-page.php:739
+msgid "Only Variable products"
+msgstr "Только вариативные товары"
+
+#: classes/system/class-xfgmc-settings-page.php:746
+msgid "Use the filter"
+msgstr "Задействовать фильтр"
+
+#: classes/system/class-xfgmc-settings-page.php:756
+msgid "The varition description takes precedence over others"
+msgstr "Описание вариации имеет приоритет над другими"
+
+#: classes/system/class-xfgmc-settings-page.php:762
+msgid "except for products for which a pre-order is permitted"
+msgstr "за исключением товаров, для которых разрешен предварительный заказ"
+
+#: classes/system/class-xfgmc-settings-page.php:774
+msgid "Remove default.png from XML"
+msgstr "Удалить default.png из XML"
+
+#: classes/system/class-xfgmc-settings-page.php:780
+msgid "Upload only the first variation"
+msgstr "Выгружать только первую вариацию"
+
+#: classes/system/class-xfgmc-settings-page.php:827
+msgid "My plugins that may interest you"
+msgstr "Мои плагины, которые могут вас заинтересовать"
+
+#: classes/system/class-xfgmc-settings-page.php:829
+msgid "Сreates a XML-feed to upload to Google Merchant Center"
+msgstr "Создает XML-фид для загрузки в Google Merchant Center"
+
+#: classes/system/class-xfgmc-settings-page.php:830
+msgid "Сreates a YML-feed for importing your products to Yandex Market"
+msgstr "Создает YML-фид для импорта ваших товаров на Яндекс Маркет"
+
+#: classes/system/class-xfgmc-settings-page.php:831
+msgid "Imports products from YML to your shop"
+msgstr "Импортирует товары из YML в ваш магазин"
+
+#: classes/system/class-xfgmc-settings-page.php:832
+msgid "Сreates a XML-feed for importing your products to Hotline"
+msgstr "Создает XML-фид для импорта ваших товаров на Hotline"
+
+#: classes/system/class-xfgmc-settings-page.php:833
+msgid ""
+"This plugin will add a marketing tool that will allow you to give gifts to "
+"the buyer upon purchase"
+msgstr ""
+"Этот плагин добавит маркетинговый инструмент, который позволит вам дарить "
+"подарки покупателю при покупке"
+
+#: classes/system/class-xfgmc-settings-page.php:834
+msgid "With this plugin, you can import products to your group on ok.ru"
+msgstr ""
+"С помощью этого плагина вы можете импортировать товары в свою группу на ok.ru"
+
+#: classes/system/class-xfgmc-settings-page.php:835
+#: classes/system/class-xfgmc-settings-page.php:836
+msgid "Сreates a XML-feed for importing your products to"
+msgstr "Создает XML-фид для импорта ваших товаров на"
+
+#: classes/system/class-xfgmc-settings-page.php:970
+msgid "Feed added"
+msgstr "Фид добавлен"
+
+#: classes/system/class-xfgmc-wp-list-table.php:32
+msgid "Feed ID"
+msgstr "Фид ID"
+
+#: classes/system/class-xfgmc-wp-list-table.php:33
+msgid "XML File"
+msgstr "Файл XML"
+
+#: classes/system/class-xfgmc-wp-list-table.php:54
+msgid "Not created yet"
+msgstr "Ещё не создавался"
+
+#: classes/system/class-xfgmc-wp-list-table.php:71
+msgid "Don't start"
+msgstr "Не начинать"
+
+#: classes/system/class-xfgmc-wp-list-table.php:164
+msgid "Delete"
+msgstr "Удалить"
+
+#: classes/system/class-xfgmc-wp-list-table.php:179
+msgid "No XML feed found"
+msgstr "XML фиды не найдены"
+
+#: debug.php:31 xml-for-google-merchant-center.php:436
+msgid "Debug page"
+msgstr "Страница отладки"
+
+#: debug.php:35
+msgid "Logs"
+msgstr "Логи"
+
+#: debug.php:39
+msgid "Log-file here"
+msgstr "Логи тут"
+
+#: debug.php:43
+msgid "Keep logs"
+msgstr "Вести логи"
+
+#: debug.php:44
+msgid "Clear logs"
+msgstr "Очистить логи"
+
+#: debug.php:48
+msgid "Do not check this box if you are not a developer"
+msgstr "Не устанавливайте этот флажок, если вы не разработчик"
+
+#: debug.php:52
+msgid "Disable notices"
+msgstr "Отключить уведомления"
+
+#: debug.php:55
+msgid "Disable notices about XML-construct"
+msgstr "Отключить уведомления о XML-сборке"
+
+#: debug.php:59
+msgid "Enable"
+msgstr "Включить"
+
+#: debug.php:62
+msgid "Enable the five minute interval for CRON"
+msgstr "Включить пятиминутный интервал для CRON"
+
+#: debug.php:81 debug.php:85
+msgid "Reset plugin settings"
+msgstr "Сбросить настройки плагина"
+
+#: debug.php:83
+msgid "Reset plugin settings can be useful in the event of a problem"
+msgstr ""
+"Сброс настроек плагина может быть полезен в случае возникновения проблем"
+
+#: debug.php:90
+msgid "Request simulation"
+msgstr "Симуляция запроса"
+
+#: debug.php:148
+msgid "Simulated"
+msgstr "Симуляция"
+
+#: debug.php:155
+msgid "Possible problems"
+msgstr "Возможные проблемы"
+
+#: debug.php:162
+msgid "Self-diagnosis functions did not reveal potential problems"
+msgstr "Функции самодиагностики не выявили потенциальных проблем"
+
+#: debug.php:168
+msgid "Sandbox"
+msgstr "Песочница"
+
+#: debug.php:189
+msgid "URL XML-feed"
+msgstr "УРЛ XML-фида"
+
+#: debug.php:190
+msgid "File generation status"
+msgstr "Статус генерации фида"
+
+#: debug.php:191
+msgid "Is the multisite mode enabled?"
+msgstr "Включен ли режим multisite?"
+
+#: debug.php:193
+msgid ""
+"Did my plugin help you upload your products to the Google Merchant Center"
+msgstr "Помог ли мой плагин загрузить ваши товары в Google Merchant Center"
+
+#: extensions.php:5
+msgid "Extensions for XML for Google Merchant Center"
+msgstr "Расширения XML for Google Merchant Center"
+
+#: extensions.php:16
+msgid "The ability to exclude products from certain categories"
+msgstr "Возможность исключать товары из определенных категорий"
+
+#: extensions.php:17
+msgid "Ability to exclude products by certain tags"
+msgstr "Возможность исключать товары по определенным тегам"
+
+#: extensions.php:18
+msgid "The ability to exclude products at a price"
+msgstr "Возможность исключать товары по цене"
+
+#: extensions.php:19
+msgid "The ability to unload only products marked with a checkbox"
+msgstr "Возможность выгрузки только товаров, отмеченных галочкой"
+
+#: extensions.php:20
+msgid "Ability to assign labels as categories"
+msgstr "Возможность назначать метки в качестве категорий"
+
+#: extensions.php:21
+msgid "Ability to download multiple images for products instead of one"
+msgstr "Возможность загрузки нескольких изображений для товара вместо одного"
+
+#: extensions.php:22
+msgid "Ability to remove the Visual Composer shortcodes from the description"
+msgstr "Возможность удалять шорткоды Visual Composer из описания"
+
+#: extensions.php:23
+msgid ""
+"The ability to add one attribute to the beginning of the product name, add "
+"three attributes to the end of the product name"
+msgstr ""
+"Возможность добавить один атрибут в начало названия товара и три атрибута в "
+"конец названия товара"
+
+#: extensions.php:24
+msgid "Support UTM tags"
+msgstr "Поддержка UTM меток"
+
+#: extensions.php:25
+msgid "Even more stable work"
+msgstr "Еще более стабильная работа"
+
+#: extensions.php:27
+msgid "Get XML for Google Merchant Center Pro Now"
+msgstr "Получить XML for Google Merchant Center сейчас"
+
+#: functions.php:704
+msgid ""
+"Your site has no global attributes! This may affect the quality of the XML "
+"feed. This can also cause difficulties when setting up the plugin"
+msgstr ""
+"Ваш сайт не имеет глобальных атрибутов! Это может повлиять на качество XML-"
+"фида. Это также может вызвать трудности при настройке плагина"
+
+#: functions.php:704
+msgid "Please read the recommendations"
+msgstr "Пожалуйста, прочитайте рекомендации"
+
+#: functions.php:743
+msgid "Most likely, these plugins negatively affect the operation of"
+msgstr "Скорее всего, эти плагины негативно влияют на работу"
+
+#: functions.php:743
+msgid ""
+"If you are a developer of one of the plugins from the list above, please "
+"contact me"
+msgstr ""
+"Если вы разработчик одного из плагинов из списка выше, пожалуйста, свяжитесь "
+"со мной"
+
+#: includes/backward-compatibility.php:336
+#: includes/backward-compatibility.php:351 includes/wc-add-functions.php:92
+#: includes/wc-add-functions.php:107 xml-for-google-merchant-center.php:930
+msgid "products"
+msgstr "товаров"
+
+#: offer.php:435 offer.php:445 offer.php:450 offer.php:462 offer.php:473
+#: offer.php:485
+msgid "The variation ID"
+msgstr "ID вариации"
+
+#: sandbox.php:4
+msgid "The sandbox is working. The result will appear below"
+msgstr "Песочница работает. Результат появится ниже"
+
+#: sandbox.php:11
+msgid "The sandbox is working correctly"
+msgstr "Песочница работает правильно"
+
+#: xml-for-google-merchant-center.php:43
+msgid "requires WooCommerce installed and activated"
+msgstr "требуется, чтобы WooCommerce был установлен и активирован"
+
+#: xml-for-google-merchant-center.php:288
+msgid "Updated"
+msgstr "Обновлено"
+
+#: xml-for-google-merchant-center.php:291
+msgid "Creating the feed is running. You can continue working with the website"
+msgstr "Создание XML-фида запущено. Вы можете продолжить работу с сайтом"
+
+#: xml-for-google-merchant-center.php:305
+msgid "Logs were cleared"
+msgstr "Логи были очищены"
+
+#: xml-for-google-merchant-center.php:308
+msgid "Error accessing log file. The log file may have been deleted previously"
+msgstr "Ошибка доступа к log-файлу. Возможно log-файл был удален ранее"
+
+#: xml-for-google-merchant-center.php:320
+#: xml-for-google-merchant-center.php:673
+msgid "Google product category"
+msgstr "Категория товара по классификации Google"
+
+#: xml-for-google-merchant-center.php:342
+#: xml-for-google-merchant-center.php:366
+msgid ""
+"These settings take precedence over those you specify on the \"XML for "
+"Google Merchant Center\" plugin settings page"
+msgstr ""
+"Эти настройки имеют приоритет над теми, которые вы указываете на странице "
+"настроек плагина \"XML for Google Merchant Center\""
+
+#: xml-for-google-merchant-center.php:357
+msgid "In the absence of a substitute"
+msgstr "Если отсутствует, то подставить"
+
+#: xml-for-google-merchant-center.php:370
+#: xml-for-google-merchant-center.php:691
+msgid "Facebook product category"
+msgstr "Категория товара по классификации Facebook"
+
+#: xml-for-google-merchant-center.php:373
+#: xml-for-google-merchant-center.php:695
+msgid ""
+"Used only if \"Yes\" is selected in the \"Adapt for Facebook\" field in the "
+"plugin settings"
+msgstr ""
+"Используется, только если в настройках плагина в поле \"Адаптировать для "
+"Facebook\" выбрано \"Да\""
+
+#: xml-for-google-merchant-center.php:397
+msgid "More features"
+msgstr "Больше функций"
+
+#: xml-for-google-merchant-center.php:399
+msgid "Settings"
+msgstr "Настройки"
+
+#: xml-for-google-merchant-center.php:431
+msgid "Export Google Merchant Center"
+msgstr "Экспортер Google Merchant Center"
+
+#: xml-for-google-merchant-center.php:436
+msgid "Debug"
+msgstr "Отладка"
+
+#: xml-for-google-merchant-center.php:439
+msgid "Add Extensions"
+msgstr "Добавить расширение"
+
+#: xml-for-google-merchant-center.php:439
+msgid "Extensions"
+msgstr "Расширения"
+
+#: xml-for-google-merchant-center.php:476
+msgid "Every two days"
+msgstr "Каждые два дня"
+
+#: xml-for-google-merchant-center.php:643
+msgid "XML for Google Merchant Center"
+msgstr "XML for Google Merchant Center"
+
+#: xml-for-google-merchant-center.php:667
+msgid "Individual product settings for XML for Google Merchant Center"
+msgstr "Индивидуальные настройки товара для XML for Google Merchant Center"
+
+#: xml-for-google-merchant-center.php:700
+msgid "Identifier exists"
+msgstr "Уникальный идентификатор"
+
+#: xml-for-google-merchant-center.php:711
+msgid "Adult"
+msgstr "Для взрослых"
+
+#: xml-for-google-merchant-center.php:735
+msgid "Kit"
+msgstr "Набор"
+
+#: xml-for-google-merchant-center.php:747
+msgid "Multipack"
+msgstr "Мультиупаковка"
+
+#: xml-for-google-merchant-center.php:759
+#: xml-for-google-merchant-center.php:853
+msgid "Unit pricing measure"
+msgstr "Количество единицы товара"
+
+#: xml-for-google-merchant-center.php:767
+#: xml-for-google-merchant-center.php:862
+msgid "Unit pricing base measure"
+msgstr "Базовое количество товара"
+
+#: xml-for-google-merchant-center.php:853
+#: xml-for-google-merchant-center.php:862
+msgid "for Google XML feed"
+msgstr "для Google XML фида"
+
+#: xml-for-google-merchant-center.php:930
+msgid "Progress"
+msgstr "Прогресс"
+
+#: xml-for-google-merchant-center.php:930
+msgid "from"
+msgstr "из"
+
+#: xml-for-google-merchant-center.php:930
+msgid ""
+"If the progress indicators have not changed within 20 minutes, try reducing "
+"the \"Step of export\" in the plugin settings"
+msgstr ""
+"Если индикаторы прогресса не изменились в течение 20 минут, попробуйте "
+"уменьшить \"Шаг экспорта\" в настройках плагина"
+
+#: xml-for-google-merchant-center.php:932
+msgid "Category list import "
+msgstr "Импорт списка категорий "
+
+#: xml-for-google-merchant-center.php:934
+msgid "Prior to the completion of less than 70 seconds"
+msgstr "До завершения менее 70 секунд"
+
+#, fuzzy
+#~| msgid "Generated"
+#~ msgid "Generated end"
+#~ msgstr "Сгенерирован"
+
+#~ msgid "WooCommerce is not active"
+#~ msgstr "Для работы требуется плагин WooCommerce"
+
+#~ msgid "Add info about stock condition"
+#~ msgstr "Добавить информацию о количестве на складе"
+
+#, fuzzy
+#~| msgid "Settings"
+#~ msgid "Tags setting"
+#~ msgstr "Настройки"
+
+#~ msgid ""
+#~ "For the plugin to function correctly, you need a version of WooCommerce "
+#~ "3.0 and higher! You have version "
+#~ msgstr ""
+#~ "Для правильной работы плагина необходима версия WooCommerce 3.0 и выше! У "
+#~ "Вас установлена версия "
+
+#~ msgid " installed. Please, update WooCommerce"
+#~ msgstr " Пожалуйста, обновите WooCommerce"
+
+#~ msgid ""
+#~ "Most likely, the plugin does not work correctly because you turned off "
+#~ "the CRON with the help of the "
+#~ msgstr ""
+#~ "Скорее всего,плагин работает неправильно, потому что вы выключили CRON "
+#~ "при помощи "
+
+#~ msgid "products has been updated"
+#~ msgstr "товаров было обновлено"
+
+#~ msgid "Description of the product"
+#~ msgstr "Описание товара"
+
+#~ msgid "Other elements"
+#~ msgstr "Другие элементы"
+
+#~ msgid "If selected"
+#~ msgstr "При выборе"
+
+#~ msgid "or"
+#~ msgstr "или"
+
+#~ msgid "do not forget to fill out this field"
+#~ msgstr "не забудьте заполнить это поле"
+
+#~ msgid "SKU"
+#~ msgstr "Артикул"
+
+#~ msgid "Add Google Product Categories"
+#~ msgstr "Добавить категории товаров Google"
+
+#~ msgid "to product cards"
+#~ msgstr "в карточки товаров"
+
+#~ msgid "Important advice"
+#~ msgstr "Важный совет"
+
+#~ msgid ""
+#~ "There is a faster way to match categories. Go to \"Products\" - "
+#~ "\"Categories\" - \"Edit Category\" and edit the field"
+#~ msgstr ""
+#~ "Есть более быстрый способ сопоставления категорий. Перейдите в \"Товары\" "
+#~ "- \"Категории\" - \"Изменить категорию\" и отредактируйте поле"
+
+#~ msgid "Select categories"
+#~ msgstr "Выберите категории"
+
+#~ msgid "Select categories for which you want to change"
+#~ msgstr "Выберите категории, для которых вы хотите изменить"
+
+#~ msgid "This"
+#~ msgstr "Эта"
+
+#~ msgid "will be added to all products in the categories above"
+#~ msgstr "будет добавлена ко всем товарам из категорий, отмеченных выше"
+
+#~ msgid "Add new category"
+#~ msgstr "Добавить новую категорию"
+
+#~ msgid "The product missed"
+#~ msgstr "Товар пропущен"
+
+#~ msgid "The settings have been reset"
+#~ msgstr "Настройки были сброшены"
+
+#~ msgid ""
+#~ "https://icopydoc.ru/en/how-to-create-an-xml-feed-in-woocommerce-for-"
+#~ "google-merchant-center-instruction/"
+#~ msgstr "https://icopydoc.ru/kak-sozdat-woocommerce-xml-instruktsiya/"
+
+#~ msgid "Select feed"
+#~ msgstr "Выбрать фид"
+
+#, fuzzy
+#~| msgid "Region"
+#~ msgid "region"
+#~ msgstr "Регион"
+
+#, fuzzy
+#~| msgid "Location"
+#~ msgid "location_id"
+#~ msgstr "Местоположение"
+
+#~ msgid "Site URL"
+#~ msgstr "УРЛ сайта"
+
+#~ msgid "Settings for XML for Google Merchant Center"
+#~ msgstr "Настройки XML for Google Merchant Center"
+
+#~ msgid "Go to"
+#~ msgstr "Переходи на"
+
+#~ msgid "on Google Merchant Center"
+#~ msgstr "в Google Merchant Center"
+
+#~ msgid ""
+#~ "Thank you for purchasing the XML for Google Merchant Center Pro extension"
+#~ msgstr "Спасибо за использование плагина XML for Google Merchant Center Pro"
+
+#~ msgid ""
+#~ "We are working on automatic file creation. XML will be developed soon."
+#~ msgstr ""
+#~ "Идет автоматическое создание файла. XML-фид в скором времени будет создан."
+
+#~ msgid ""
+#~ "By clicking on \"Save\" you will overwrite the upload file for XML for "
+#~ "Google Merchant Center"
+#~ msgstr "Нажав «Сохранить», вы перезапишете XML для Google Merchant Center"
+
+#~ msgid "Plugin has been updated to version"
+#~ msgstr "Плагин был обновлен до версии"
+
+#~ msgid "Please resave the plugin settings"
+#~ msgstr "Пожалуйста, пересохраните настройки плагина"
+
+#~ msgid "https://icopydoc.ru/kak-sozdat-woocommerce-xml-instruktsiya/"
+#~ msgstr ""
+#~ "https://icopydoc.ru/en/how-to-create-an-xml-feed-in-woocommerce-for-"
+#~ "google-merchant-center-instruction/"
+
+#~ msgid "Company name"
+#~ msgstr "Наименование компании"
+
+#~ msgid "Generate your 1st XML feed!"
+#~ msgstr "Создайте ваш 1-й XML фид!"
+
+#~ msgid "Go to XML for Google Merchant Center Pro and"
+#~ msgstr "Переходи на XML for Google Merchant Center Pro и"
+
+#~ msgid "Repair and construction products"
+#~ msgstr "Товары для ремонта и строительства"
+
+#~ msgid "Male"
+#~ msgstr "Мужской"
+
+#~ msgid "Female"
+#~ msgstr "Женский"
+
+#~ msgid "Unisex"
+#~ msgstr "Унисекс"
+
+#~ msgid "Regular"
+#~ msgstr "Стандартный"
+
+#~ msgid "Petite"
+#~ msgstr "Для миниатюрных"
+
+#~ msgid "Plus"
+#~ msgstr "Для полных"
+
+#~ msgid "Big and tall"
+#~ msgstr "Для крупных и высоких"
+
+#~ msgid "Maternity"
+#~ msgstr "Для беременных"
+
+#~ msgid "Categories of variable products for which group_id is not allowed"
+#~ msgstr "Категории вариативных товаров для которых запрещен group_id"
+
+#~ msgid ""
+#~ "According to Yandex Market rules in this field you need to mark ALL "
+#~ "categories of products not related to \"Clothes, Shoes and Accessories\", "
+#~ "\"Furniture\", \"Cosmetics, perfumes and care\", \"Baby products\", "
+#~ "\"Accessories for portable electronics\". Ie categories for which it is "
+#~ "forbidden to use the attribute group_id"
+#~ msgstr ""
+#~ "Согласно правилам Яндекс Маркет в этом поле Вам необходимо отметить ВСЕ "
+#~ "категории товаров не относящиеся к \"Одежда, обувь и аксессуары\", "
+#~ "\"Мебель\", \"Косметика, парфюмерия и уход\", \"Детские товары\", "
+#~ "\"Аксессуары для портативной электроники\". Т.е категории, для которых "
+#~ "запрещено использовать атрибут group_id"
+
+#~ msgid "Price and delivery"
+#~ msgstr "Цена и доставка"
+
+#~ msgid "on Yandex"
+#~ msgstr "на Яндексе"
+
+#~ msgid "Read usage tips"
+#~ msgstr "Прочитать советы по использованию"
+
+#~ msgid "Here you can set up individual options terms for this product"
+#~ msgstr ""
+#~ "Здесь вы можете настроить индивидуальные условия доставки для данного "
+#~ "товара"
+
+#~ msgid "Read more on Yandex"
+#~ msgstr "Прочитать подробности на Яндексе"
+
+#~ msgid "Go to Yml for Yandex Market Pro and"
+#~ msgstr "Переходи на Yml for Yandex Market Pro и"
+
+#~ msgid "Exporter Yandex Market"
+#~ msgstr "Экспортер Yandex Market"
+
+#~ msgid ""
+#~ "is an extension that allows you to increase sales by unloading Promotions "
+#~ "(promos, gifts) on the Yandex Market"
+#~ msgstr ""
+#~ "- это расширение, которое позволяет увеличить продажи за счет выгрузки "
+#~ "Промоакций (promos, gifts) на Яндекс Маркет"
+
+#~ msgid "Thank you for purchasing the Promos Export extension"
+#~ msgstr "Спасибо за использование плагина Promos Export"
+
+#~ msgid "Read usage case"
+#~ msgstr "Посмотреть пример использования"
+
+#~ msgid "Need to export products on prom.ua"
+#~ msgstr "Нужно экспортировать товары на prom.ua"
+
+#~ msgid "Download the"
+#~ msgstr "Загрузите"
+
+#~ msgid "extension"
+#~ msgstr "расширение"
+
+#~ msgid ""
+#~ "Thank you for purchasing the Yml for Yandex Market Prom Export extension"
+#~ msgstr "Спасибо за использование плагина Yml for Yandex Market Prom Export"
+
+#~ msgid "Adult Market"
+#~ msgstr "Магазин для взрослых"
+
+#~ msgid "Add the following attributes to the name"
+#~ msgstr "Подставлять в название след атрибуты"
+
+#~ msgid ""
+#~ "It works only for variable products that are not in the category "
+#~ "\"Clothes, Shoes and Accessories\", \"Furniture\", \"Cosmetics, perfumes "
+#~ "and care\", \"Baby products\", \"Accessories for portable electronics\""
+#~ msgstr ""
+#~ "Работает только для вариативных товаров, входящих в категории не "
+#~ "относящихся к \"Одежда, обувь и аксессуары\", \"Мебель\", \"Косметика, "
+#~ "парфюмерия и уход\", \"Детские товары\", \"Аксессуары для портативной "
+#~ "электроники\""
+
+#~ msgid "Separator options"
+#~ msgstr "Варианты разделителя"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Pickup"
+#~ msgstr "Самовывоз"
+
+#~ msgid "True"
+#~ msgstr "Да"
+
+#~ msgid "False"
+#~ msgstr "Нет"
+
+#~ msgid "Option to get order from pickup point"
+#~ msgstr "Возможность самовывоза из пунктов выдачи"
+
+#~ msgid "Price from"
+#~ msgstr "Цена от"
+
+#~ msgid "Apply the setting Price from"
+#~ msgstr "Применить параметр Цена от ко всем товарам"
+
+#~ msgid "Delivery"
+#~ msgstr "Доставка"
+
+#~ msgid ""
+#~ "The delivery item must be set to false if the item is prohibited to sell "
+#~ "remotely (jewelry, medicines)"
+#~ msgstr ""
+#~ "Элемент delivery должен обязательно иметь значение false, если товар "
+#~ "запрещено продавать дистанционно (ювелирные изделия, лекарственные "
+#~ "средства)."
+
+#~ msgid "Use delivery-options"
+#~ msgstr "Использовать delivery-options"
+
+#~ msgid "Delivery cost"
+#~ msgstr "Стоимость доставки"
+
+#~ msgid "The time"
+#~ msgstr "Время"
+
+#~ msgid "The time in which you need to place an order to get it at this time"
+#~ msgstr ""
+#~ "Время, до которого нужно сделать заказ, чтобы получить его в этот срок"
+
+#~ msgid "Use Auto discounts"
+#~ msgstr "Применить автоматический расчет скидок"
+
+#~ msgid "Barcode"
+#~ msgstr "Штрихкод"
+
+#~ msgid "Vendor Code"
+#~ msgstr "Артикул"
+
+#~ msgid "Shelf life / service life"
+#~ msgstr "Срок годности / срок службы"
+
+#~ msgid "Shelf life / service life. expiry date / service life"
+#~ msgstr ""
+#~ "Срок годности / срок службы либо дата истечения срока годности / срока "
+#~ "службы"
+
+#~ msgid "Mark downloadable products"
+#~ msgstr "Помечать скачиваемые товары"
+
+#~ msgid "On"
+#~ msgstr "Включить"
+
+#~ msgid "Model"
+#~ msgstr "Модель"
+
+#~ msgid "Considered obsolete. Do not use the Yandex Market"
+#~ msgstr "Считается устаревшим. Не используется Яндекс Маркетом"
+
+#~ msgid "Vendor"
+#~ msgstr "Производитель"
+
+#~ msgid "Country of origin"
+#~ msgstr "Страна производитель"
+
+#~ msgid ""
+#~ "This element indicates the country where the product was manufactured"
+#~ msgstr "Элемент предназначен для указания страны производства товара"
+
+#~ msgid "A list of possible values"
+#~ msgstr "Список возможных значений"
+
+#~ msgid "Manufacturer warrant"
+#~ msgstr "Гарантия производителя"
+
+#~ msgid "Add to all"
+#~ msgstr "Добавить всем"
+
+#~ msgid ""
+#~ "This element is used for products that have an official manufacturer's "
+#~ "warranty"
+#~ msgstr ""
+#~ "Элемент предназначен для отметки товаров, имеющих официальную гарантию "
+#~ "производителя"
+
+#~ msgid "Product does not have an official warranty"
+#~ msgstr "Товар не имеет официальной гарантии"
+
+#~ msgid "Product has an official warranty"
+#~ msgstr "Товар имеет официальную гарантию"
+
+#~ msgid "Attention!"
+#~ msgstr "Внимание!"
+
+#~ msgid "Read more about how this works"
+#~ msgstr "Подробнее о том, как это работает"
+
+#~ msgid "Disable use of Sales notes"
+#~ msgstr "Запретить выгрузку Sales notes"
+
+#~ msgid ""
+#~ "If the attribute from the select is absent from the product, then "
+#~ "substitute"
+#~ msgstr "Если атрибут из селекта выше отсутствует у товара, то подставить"
+
+#~ msgid ""
+#~ "The text may be up to 50 characters in length. Also in the item is "
+#~ "forbidden to specify the terms of delivery and price reduction (discount "
+#~ "on merchandise)"
+#~ msgstr ""
+#~ "Не более 50 символов. Также в элементе запрещено указывать условия "
+#~ "доставки и снижение цены (скидку на товар)"
+
+#~ msgid "Include these attributes in the values Param"
+#~ msgstr "Включить эти атрибуты в фид"
+
+#~ msgid "Store"
+#~ msgstr "Запас"
+
+#~ msgid "true"
+#~ msgstr "да"
+
+#~ msgid "The product can be purchased in retail stores"
+#~ msgstr "Товар можно купить без предварительного заказа"
+
+#~ msgid "false"
+#~ msgstr "нет"
+
+#~ msgid "the product cannot be purchased in retail stores"
+#~ msgstr "товар нельзя купить без предварительного заказа"
+
+#~ msgid "Extensions for Yml for Yandex Market"
+#~ msgstr "Расширения для Yml for Yandex Market"
+
+#~ msgid ""
+#~ "Ability to specify a product with a category tree identical to the "
+#~ "category tree on the Yandex Market"
+#~ msgstr ""
+#~ "Возможность прописать товару дерево категорий идентичное дереву категорий "
+#~ "на Яндекс Маркет"
+
+#~ msgid "Dimension Grid Support. For example"
+#~ msgstr "Поддержка размерной сетки. Например"
+
+#~ msgid "Get Yml for Yandex Market Pro Now"
+#~ msgstr "Получить Yml for Yandex Market Pro сейчас"
+
+#~ msgid ""
+#~ "This extension adds to the plugin support for special attributes needed "
+#~ "to export products on prom.ua"
+#~ msgstr ""
+#~ "Это расширение добавляет в плагин поддержку специальных атрибутов, "
+#~ "необходимых для экспорта товаров на prom.ua"
+
+#~ msgid "Read more on Prom.ua"
+#~ msgstr "Прочитать подробности на prom.ua"
+
+#~ msgid "Get Yml for Yandex Market Prom Export Now"
+#~ msgstr "Получить Yml for Yandex Market Prom Export сейчас"
+
+#~ msgid ""
+#~ "This extension allows you to transfer information about various stores "
+#~ "promotions, such as"
+#~ msgstr ""
+#~ "Это расширение позволяет передавать информацию о различных рекламных "
+#~ "акциях магазинов, таких как"
+
+#~ msgid "Promo Code"
+#~ msgstr "Промо код"
+
+#~ msgid "Flash Discount"
+#~ msgstr "Специальная цена"
+
+#~ msgid "N+M"
+#~ msgstr "N+M"
+
+#~ msgid "Gifts"
+#~ msgstr "Подарки"
+
+#~ msgid "Very important"
+#~ msgstr "Очень важно"
+
+#~ msgid ""
+#~ "The extension allows you to send information about the \"Gift at Purchase"
+#~ "\" to Yandex Market (see screenshot)"
+#~ msgstr ""
+#~ "Расширение позволяет передавать на Яндекс Маркет информацию о \"Подарок "
+#~ "при покупке\" (см скриншот)"
+
+#~ msgid "For successful moderation you need"
+#~ msgstr "Чтобы успешно пройти модерацию, Вам нужно"
+
+#~ msgid "self add information"
+#~ msgstr "самостоятельно добавить информацию"
+
+#~ msgid ""
+#~ "that the person is entitled to a gift for purchase! Otherwise YOU WILL "
+#~ "NOT TAKE A MODERATION on Yandex Market"
+#~ msgstr ""
+#~ "о том, что за покупку человеку полагается подарок! Если этого не сделать, "
+#~ "то Вы НЕ ПРОЙДЕТЕ МОДЕРАЦИЮ на Яндекс Маркете"
+
+#~ msgid "Sure to"
+#~ msgstr "Обязательно"
+
+#~ msgid ""
+#~ "BEFORE PURCHASING this extension - add relevant information to your site"
+#~ msgstr ""
+#~ "ПЕРЕД ПОКУПКОЙ этого расширения добавьте соответствующую информацию на "
+#~ "Ваш сайт"
+
+#~ msgid "Get Yml for Yandex Market Promos Export Now"
+#~ msgstr "Получить Yml for Yandex Market Promos Export сейчас"
+
+#~ msgid ""
+#~ "This extension adds to the plugin support for a special type of export by "
+#~ "Yandex Market for books"
+#~ msgstr ""
+#~ "Это расширение добавляет в плагин специальный вид экспорта Yandex Market "
+#~ "для книг"
+
+#~ msgid "Get Yml for Yandex Market Book Export Now"
+#~ msgstr "Получить Yml for Yandex Market Book Export сейчас"
+
+#~ msgid "Export Yandex Market"
+#~ msgstr "Экспорт Yandex Market"
+
+#~ msgid "Settings delivery options for Yandex Market"
+#~ msgstr "Настройки параметров доставки для Яндекс Маркета"
+
+#~ msgid "Here you can configure the pickup conditions for this product"
+#~ msgstr ""
+#~ "Здесь вы можете настроить индивидуальные условия самовывоза для данного "
+#~ "товара"
+
+#~ msgid "Pickup cost"
+#~ msgstr "Стоимость самовывоза"
+
+#~ msgid "Pickup days"
+#~ msgstr "Срок самовывоза"
+
+#~ msgid "Bid values"
+#~ msgstr "Значения ставки"
+
+#~ msgid ""
+#~ "Bid values in your price list. Specify the bid amount in Yandex cents: "
+#~ "for example, the value 80 corresponds to the bid of 0.8 Yandex units. The "
+#~ "values must be positive integers"
+#~ msgstr ""
+#~ "Значения ставок в прайс-листе. Указывайте размер ставки в условных "
+#~ "центах: например, значение 80 соответствует ставке 0,8 у. е. Значения "
+#~ "должны быть целыми и положительными числами"
+
+#~ msgid "All"
+#~ msgstr "Всё"
+
+#~ msgid "Plugin YML for Yandex Market has been updated!"
+#~ msgstr "Плагин YML for Yandex Market был обновлен!"
+
+#~ msgid "On the plugin settings page click on the"
+#~ msgstr "На странице настроек плагина нажмите на кнопку"
+
+#~ msgid "Expiry"
+#~ msgstr "Окончание"
+
+#~ msgid "Sales notes will be added to all items, if you complete this field"
+#~ msgstr "Sales notes будет добавлен ко всем товарам, если заполнить это поле"
+
+#~ msgid "Work is under way on this extension"
+#~ msgstr "Ведется работа над этим расширением"
+
+#~ msgid "If you have any ideas how to make the plugin better"
+#~ msgstr "Если у вас есть идеи, как сделать плагин лучше"
+
+#~ msgid "Perhaps, it is your idea that will enter this extension"
+#~ msgstr "Возможно, ваша идея войдет в данное расширение"
+
+#~ msgid "Get Special Offer Now"
+#~ msgstr "Получите специальное предложение сейчас"
+
+#~ msgid "Adult store?"
+#~ msgstr "Магазин для взрослых?"
+
+#~ msgid "Settings Maps for WP"
+#~ msgstr "Настройки Maps for WP"
+
+#~ msgid "Text when you hover over a point"
+#~ msgstr "Текст при наведении на точку"
+
+#~ msgid "The image point on the map (36×36)"
+#~ msgstr "Иконка точки на карте (36×36)"
+
+#~ msgid "Zoom map with many points"
+#~ msgstr "Масштаб карты с множеством точек"
+
+#~ msgid "Latitude center map with many points"
+#~ msgstr "Широта центра карты с множеством точек"
+
+#~ msgid "Longitude center map with many points"
+#~ msgstr "Долгота карты с множеством точек"
+
+#~ msgid "Zoom map with one point"
+#~ msgstr "Масштаб карты с одной точкой"
+
+#~ msgid "Latitude map with one point"
+#~ msgstr "Широтка карты с одной точкой"
+
+#~ msgid "Longitude map with one point"
+#~ msgstr "Долготак карты с одной точкой"
+
+#~ msgid "Latitude"
+#~ msgstr "Широта"
+
+#~ msgid "Longitude"
+#~ msgstr "Долгота"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Subadministrative"
+#~ msgstr "Район"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "The exact address"
+#~ msgstr "Точный адрес"
+
+#~ msgid "Container Yandex Maps"
+#~ msgstr "Блок Yandex Maps"

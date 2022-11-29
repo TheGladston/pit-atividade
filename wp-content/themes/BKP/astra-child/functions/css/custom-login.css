@@ -1,0 +1,34 @@
+
+/* Custom login */
+
+body.login{
+    background: rgba(61,64,107,1);
+    background: -moz-linear-gradient(left, rgba(61,64,107,1) 0%, rgba(160,87,170,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(61,64,107,1)), color-stop(100%, rgba(160,87,170,1)));
+    background: -webkit-linear-gradient(left, rgba(61,64,107,1) 0%, rgba(160,87,170,1) 100%);
+    background: -o-linear-gradient(left, rgba(61,64,107,1) 0%, rgba(160,87,170,1) 100%);
+    background: -ms-linear-gradient(left, rgba(61,64,107,1) 0%, rgba(160,87,170,1) 100%);
+    background: linear-gradient(to right, rgba(61,64,107,1) 0%, rgba(160,87,170,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3d406b', endColorstr='#a057aa', GradientType=1 );
+    height: 100hv;
+}
+body.login #login h1 a{
+    background: url(../images/logo-branca.png) no-repeat;
+    width: 220px;
+    height: 44px;
+}
+.login #backtoblog a, .login #nav a{
+    color: #FFF;
+}
+.wp-core-ui .button-primary {
+    background: #3d406b;
+    border-color: #3d406b;
+    -webkit-box-shadow: inset 0 1px 0 #3d406b, 0 1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 1px 0 #3d406b, 0 1px 0 rgba(0,0,0,.15);
+    color: #fff;
+    text-decoration: none;
+}
+.wp-core-ui .button-primary:hover{
+    background: #ff774e;
+    border-color: #ff774e;
+}

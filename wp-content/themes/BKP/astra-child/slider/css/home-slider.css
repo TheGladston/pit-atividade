@@ -1,0 +1,58 @@
+#owl_slider_options .code{
+    background: transparent;
+    padding: 4px 8px;
+    box-shadow: none;
+    font-size: 12px;
+    border: none;
+    width: 100px;
+    margin: 0;
+}
+.cd-slider h1 small{
+    font-size: .6em;
+}
+#owl-slider.owl-theme .owl-nav{
+    -webkit-transition: all 350ms ease;
+    -moz-transition: all 350ms ease;
+    transition: all 350ms ease;
+    top: calc(45% - 20px);
+    position: absolute;
+    width: 100%;
+    margin: 0;
+}
+.owl-theme:hover .owl-nav{
+    opacity: 1;
+}
+.owl-theme .owl-nav [class*='owl-']{
+    -webkit-transition: all 350ms ease;
+    -moz-transition: all 350ms ease;
+    transition: all 350ms ease;
+    border: 1px solid #ececec;
+    position: absolute;
+    text-align: center;
+    line-height: 20px;
+    background: #fff;
+    display: block;
+    height: 35px;
+    width: 35px;
+    color: #aaa;
+}
+#owl-slider.owl-theme:hover .owl-nav .owl-prev{
+    left: 0;
+}
+#owl-slider.owl-theme .owl-nav .owl-prev{
+    left: 35px;
+}
+#owl-slider.owl-theme:hover .owl-nav .owl-next{
+    right: 0;
+}
+#owl-slider.owl-theme .owl-nav .owl-next{
+    right: 35px;
+}
+.table-not-padding td{
+    padding: 0 15px 0 0;
+}
+#owl-slider.owl-theme .owl-dots{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}

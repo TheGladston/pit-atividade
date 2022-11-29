@@ -1,0 +1,6 @@
+[04-Jun-2022 18:35:26 America/Sao_Paulo] PHP Notice:  Constant WP_DEBUG already defined in phar:///home/devastrav1brtloj/public_html/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1277) : eval()'d code on line 100
+[04-Jun-2022 18:35:49 America/Sao_Paulo] PHP Notice:  Constant WP_DEBUG already defined in phar:///home/devastrav1brtloj/public_html/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1277) : eval()'d code on line 100
+[04-Jun-2022 18:36:06 America/Sao_Paulo] PHP Notice:  Constant WP_DEBUG already defined in phar:///home/devastrav1brtloj/public_html/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1277) : eval()'d code on line 100
+[06-Jun-2022 12:18:31 America/Sao_Paulo] PHP Notice:  Constant WP_DEBUG already defined in phar:///home/devastrav1brtloj/public_html/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1277) : eval()'d code on line 100
+[12-Jul-2022 10:17:21 America/Sao_Paulo] PHP Notice:  Constant WP_DEBUG already defined in phar:///home/devastrav1brtloj/public_html/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1277) : eval()'d code on line 100
+[12-Jul-2022 10:29:04 America/Sao_Paulo] PHP Notice:  Constant WP_DEBUG already defined in phar:///home/devastrav1brtloj/public_html/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1277) : eval()'d code on line 100
